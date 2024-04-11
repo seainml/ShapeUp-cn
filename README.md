@@ -11,6 +11,7 @@ This is a personal project which will take approximately six weeks to complete. 
 I would like to acknowledge the previous translation [copy](https://github.com/fenbox/shapeup) by @fenbox, which will be helpful in this project. 
 Thanks to @fenbox's work, those images collected by him will be used directly in this project(pending permission). 
 ## doing
-- [x] Generate 1st edition from ChatGpt
+- [x] Generate 1st edition from ChatGpt: The quality doesn't meet the need.
+- [ ] Try DeepL translation
 - [ ] Publish it to Gitbook
 
