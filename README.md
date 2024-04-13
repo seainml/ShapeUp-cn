@@ -12,6 +12,6 @@ I would like to acknowledge the previous translation [copy](https://github.com/f
 Thanks to @fenbox's work, those images collected by him will be used directly in this project(pending permission). 
 ## doing
 - [x] Generate 1st edition from ChatGpt: The quality doesn't meet the need.
-- [x] Try DeepL translation：The quality doesn't meet the need.
-- [ ] Publish it to Gitbook
+- [x] Try DeepL translation： The quality doesn't meet the need.
+- [ ] Publish it to Gitbook: Try [TLCL](https://billie66.github.io/TLCL/) style
 
